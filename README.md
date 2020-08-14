@@ -10,4 +10,5 @@ Foro para preguntas de Sistemas Operativos y Redes, 2020-2.
    * T1/T2: Para preguntas relacionadas con las tareas.
    * P1/P2: Para preguntas relacionadas con los proyectos.
    * I1/I2/EX: Para preguntas relacionadas con las pruebas.
+   * SSOO/Redes: Para preguntas relacionadas a la materia del ramo.
    * Administrativa: Para dudas administrativas generales. Dudas administrativas personales deben ser enviadas directamente al profesor.
